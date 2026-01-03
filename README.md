@@ -49,5 +49,4 @@ Please download the dataset from Kaggle and place the CSV file in the same direc
 
 ---
 
-## 📁 Project Structure
 
